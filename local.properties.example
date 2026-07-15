@@ -1,0 +1,8 @@
+# Локальный файл, НЕ коммитить в git (см. .gitignore).
+# Android Studio сам создаёт local.properties с sdk.dir при первом открытии проекта —
+# просто допиши в него строку ниже своим настоящим ключом.
+
+sdk.dir=/path/to/your/Android/sdk
+
+# Ключ для LLM API (например, Anthropic Claude API). Получить можно в консоли поставщика API.
+LLM_API_KEY=вставь_сюда_свой_ключ
